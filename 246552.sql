@@ -1,19 +1,3 @@
--- Answer to the 2nd Database Assignment Part 1 
--- Term 1, 2022
---
--- CANDIDATE NUMBER: 246552
--- Please insert your candidate number in the line above - you should replace xxxxxx with your candidate number.
-
-
--- In each section below put your answer in a new line 
--- BELOW the corresponding comment.
--- Use ONE SQL statement ONLY per question.
--- If you don’t answer a question just leave the corresponding space blank. 
--- Anything that does not run in SQL you MUST put in comments.
-
--- DO NOT REMOVE ANY LINE FROM THIS FILE.
-
--- START OF ASSIGNMENT CODE
 
 
 -- @@1
